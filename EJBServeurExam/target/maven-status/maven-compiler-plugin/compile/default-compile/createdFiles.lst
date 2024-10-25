@@ -1,0 +1,4 @@
+org\example\ejbserveurexam\Beans\GestionCD.class
+org\example\ejbserveurexam\entity\CD.class
+org\example\ejbserveurexam\Beans\GestionCDRemote.class
+org\example\ejbserveurexam\entity\Emprunt.class
